@@ -1,0 +1,28 @@
+{
+  "name": "bookit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.5.1",
+    "jsonwebtoken": "^9.0.2",
+    "luxon": "^3.5.0",
+    "mongodb": "^6.10.0",
+    "next": "14.2.13",
+    "next-cloudinary": "^6.16.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-toastify": "^10.0.6"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
